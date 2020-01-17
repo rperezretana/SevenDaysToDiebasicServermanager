@@ -1,0 +1,13 @@
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\bin\Debug\SdtdServerManager.exe.config
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\bin\Debug\SdtdServerManager.exe
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\bin\Debug\SdtdServerManager.pdb
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.Form1.resources
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.Properties.Resources.resources
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.csproj.GenerateResource.cache
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.csproj.CopyComplete
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.exe
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.pdb
+C:\Users\Rolando\Dropbox (Personal)\Twitch Streaming\7dtd Server Manager\SimpleServermanager\SdtdServerManager\SdtdServerManager\obj\Debug\SdtdServerManager.csprojAssemblyReference.cache
